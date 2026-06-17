@@ -26,9 +26,6 @@ This sales dashboard provides a comprehensive view of key performance metrics, i
 ### Daily Inventory Dashboard
 The Daily Inventory Dashboard offers a daily snapshot of inventory levels, including stock quantities, moving category product, and detail inventory product. Created using Looker Studio, it provides intuitive visualizations to track daily inventory fluctuations, monitor stockouts, and optimize inventory management. This dashboard is designed to streamline inventory tracking and support efficient supply chain decisions.
 
-### Pricing Product Competitor
-The Pricing Competitor Dashboard compares product prices across competitors, showcasing price trends and benchmarks. Created with Looker Studio, it helps in making informed pricing decisions by visualizing competitive pricing dynamics.
-
 ### Geolocation Customer Dashboard
 It provides a detailed view of customer distribution across various regions. Utilizing Looker Studio, this dashboard maps customer locations to reveal geographic trends, identify high-density areas, and analyze regional performance. It offers interactive visualizations to track demographic patterns, assess market reach, and support targeted marketing strategies.
 
