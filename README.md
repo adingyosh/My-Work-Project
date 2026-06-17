@@ -1,7 +1,19 @@
 # My-Work-Project-Portofolio
 
+
+
 ### Summary
 As a proficient Data Analyst with expertise in SQL, Python, and create dashboard using Looker Studio, I specialize in transforming raw data into meaningful insights. Leveraging SQL for efficient data retrieval, Python for advanced analysis and automation, and Looker Studio for compelling visualizations, I have a proven track record of delivering actionable recommendations that drive informed decision-making. I describe My project showcases my ability to communicate complex data concepts in a clear and concise manner.
+
+### Flight Booking Funnel (Look-to-Book) Analysis
+
+Analyzed the flight booking funnel from search → click → form submission → payment to measure conversion performance. Calculated stage-by-stage conversion rates across different clients and identified where users drop off in the booking flow. Also identified top-converting routes based on user activity and completed bookings to understand demand patterns and improve overall conversion.
+
+
+### Real-Time Error Message Mapping API Using Cosine Similarity
+
+Developed a machine learning model to automatically classify distributor error messages based on similarity to historical error records. Using TF-IDF vectorization and cosine similarity, the model identifies the closest matching error category and maps it to a standardized internal error code. The solution was deployed as a FastAPI service, allowing other systems to perform real-time error classification through a simple API.
+
 
 ### Sales Dashboard
 This sales dashboard provides a comprehensive view of key performance metrics, including total sales, total transaction, AOV, target sales, direct cost (COGS, discount, comission fee, etc), gross Sales, gross margin. Utilizing Looker Studio, I designed interactive visualizations to track performance trends, identify top-performing products, and analyze business unit sales data. This dashboard helps in making data-driven decisions by presenting actionable insights in an easy-to-understand format.
