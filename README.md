@@ -3,7 +3,7 @@
 
 
 ### Summary
-As a proficient Data Analyst with expertise in SQL, Python, and create dashboard using Looker Studio, I specialize in transforming raw data into meaningful insights. Leveraging SQL for efficient data retrieval, Python for advanced analysis and automation, and BI Tools (Metabase, Grafana, Looker Studio) for compelling visualizations, I have a proven track record of delivering actionable recommendations that drive informed decision-making. I describe My project showcases my ability to communicate complex data concepts in a clear and concise manner.
+Data Analyst with expertise in SQL, Python, and Business Intelligence tools, specializing in transforming complex datasets into actionable business insights. Experienced in designing end-to-end data solutions, including ETL pipelines, data marts, automated reporting systems, and interactive dashboards using Looker Studio, Metabase, and Grafana. Skilled in data analysis, process automation, forecasting, and machine learning applications, with a proven ability to uncover trends, optimize business performance, and support strategic decision-making through data-driven solutions. Demonstrated success in communicating complex analytical findings to both technical and non-technical stakeholders through clear visualizations and meaningful recommendations.
 
 ### ETL Pipeline for Data Mart Using Apache Airflow
 
